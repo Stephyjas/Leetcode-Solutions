@@ -8,10 +8,12 @@ A collection of my LeetCode problem solutions to improve problem-solving, data s
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Stephyjas/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [1406-stone-game-iii](https://github.com/Stephyjas/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Stephyjas/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Stephyjas/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Stephyjas/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +47,8 @@ A collection of my LeetCode problem solutions to improve problem-solving, data s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Stephyjas/Leetcode-Solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Stephyjas/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
